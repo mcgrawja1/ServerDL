@@ -1,0 +1,38 @@
+#https://ubuntu.com/tutorials/install-and-configure-wordpress#1-overview#
+
+#!/bin/bash
+
+sudo apt install                 apache2\
+
+sudo apt install                 ghostscript \
+
+sudo apt install                 libapache2-mod-php \
+
+sudo apt install                 mysql-server \
+
+sudo apt install                 php \
+
+sudo apt install                 php-bcmath \
+
+sudo apt install                 php-curl \
+
+sudo apt install                 php-imagick \
+
+sudo apt install                 php-intl \
+
+sudo apt install                 php-json \
+
+sudo apt install                 php-mbstring \
+
+sudo apt install                 php-mysql \
+
+sudo apt install                 php-xml \
+
+sudo apt install                 php-zip
+
+sudo mkdir -p /srv/www
+
+sudo chown www-data: /srv/www
+
+curl https://wordpress.org/latest.tar.gz | sudo -u www-data tar zx -C /srv/www
+
