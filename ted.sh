@@ -20,5 +20,14 @@ sudo wget https://download.kiwix.org/zim/ted_en_playlist-how-leaders-inspire.zim
 sudo wget https://download.kiwix.org/zim/ted_en_playlist-how-to-be-a-good-mentor.zim
 sudo wget https://download.kiwix.org/zim/ted_en_playlist-how-to-overcome-your-fears.zim
 sudo wget https://download.kiwix.org/zim/ted_en_playlist-talks-to-help-you-find-your-pu.zim
+sudo wget http://download.kiwix.org/zim/allthetropes_en_all_maxi.zim
+sudo wget http://download.kiwix.org/zim/termux_en_all_maxi.zim
+sudo wget http://download.kiwix.org/zim/crashcourse_en_all.zim
+sudo wget http://download.kiwix.org/zim/aimhi_philosophy.zim
+sudo wget http://download.kiwix.org/zim/dandwiki_en_all_maxi.zim
+sudo wget http://download.kiwix.org/zim/raspberrypi.stackexchange.com_en_all.zim
+sudo wget http://download.kiwix.org/zim/wikibooks_en_all_maxi.zim
+
+
 
 sudo systemctl restart kiwix-serve.service 
