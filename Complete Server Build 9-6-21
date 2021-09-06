@@ -1,6 +1,16 @@
+#!/bin/bash
+
 #This is how to completely build an Ubuntu Server by combining multiple hard drives into a single LVM, adding Wordpress for content direction, adding Plex for content viewing, Samba to add content, Retroarch Web Player for vintage console games, and using Amp to install games servers
+# Don't forget to properly format your hard drives prior to installing them
 
 
 #Server: akmedia, User: rickover, PW: integrity1
+
+sudo apt-get update
+
+sudo apt-get upgrade -y
+
+
+
 
 
