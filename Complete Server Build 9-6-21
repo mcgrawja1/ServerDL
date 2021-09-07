@@ -41,7 +41,11 @@ sudo systemctl restart systemd-logind
 
 #Combining all harddrives into one Logical Volume
 
-sudo lsblk
+sudo fdisk -l
+
+
+
+
 
 
 
