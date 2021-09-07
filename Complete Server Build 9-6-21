@@ -36,5 +36,14 @@ sudo nano /etc/systemd/logind.conf
 # Update the line "HandleLidSwitch=suspend" to "HandleLidSwitch=ignore"
 # Verify the line "HandleLidSwitchDocked=ignore"
 
+#Then restart the service
+sudo systemctl restart systemd-logind
+
+#Combining all harddrives into one Logical Volume
+
+sudo lsblk
+
+
+
 
 
