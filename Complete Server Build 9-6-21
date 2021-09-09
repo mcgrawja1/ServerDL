@@ -46,7 +46,14 @@ sudo fdisk -l
 
 
 
-
+define('AUTH_KEY',         'pY_Zs[<|-0ifIcE?l;iu@JIkE?Uq^pN4I:]`I&{#j}0gQ#|RNOV#zy-|:G0KZ-yn');
+define('SECURE_AUTH_KEY',  'sE|i6An%[&NTy`-?x!r~.KDG^-E7IENNTzIP0>|v=Jw5/L_UQ ?}wiE2n5o-@S``');
+define('LOGGED_IN_KEY',    'O1u$3:-7{FLm+5>I[W,.y>I0s+iqxT$osN?^3>{!Rj!POj_%g%Su~vubsOX??x_z');
+define('NONCE_KEY',        'l.F}#|o+WORYP-7lZra#{=cO_s>m6C0VK&8<|f;|sObK~TA5v=WeAc;WQo|{+^+m');
+define('AUTH_SALT',        'yw^9f{sfHrG|Do/ r<;#@g+Y2Tv_I&aY/F-M-IIW!#?^225MEeM2y@2||>wrV5v{');
+define('SECURE_AUTH_SALT', 'Qz5[DNhP%s+BJ,9.wGwsP6iiBs0rES~W#!]jDPS]qj-SIyO@i!l-p2SvXDLkF`TY');
+define('LOGGED_IN_SALT',   'Qk+K+zr17+,NSzch%>Z1|_gfk3>2WVH7$Yzzg:;Gp0-r62bncbC0HK1WFv`%c|M}');
+define('NONCE_SALT',       ';Gz>fs(lA]5mT~)e5@`|}8J=+FA}-OwE~V0t!KOLeC@rF?Hi#M,=fNHo8QL^*=9h');
 
 
 
