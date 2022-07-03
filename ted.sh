@@ -1,17 +1,17 @@
 #!/bin/bash
 
-sudo wget https://download.kiwix.org/zim/ted_en_global_issues.zim
-sudo wget https://download.kiwix.org/zim/ted_en_playlist-10-days-of-positive-thinking.zim
-sudo wget https://download.kiwix.org/zim/ted_en_playlist-10-great-talks-to-celebrate-bl.zim
-sudo wget https://download.kiwix.org/zim/ted_en_playlist-10-guiding-principles-for-leaders.zim
-sudo wget https://download.kiwix.org/zim/ted_en_playlist-10-years-of-ted-talks.zim
-sudo wget https://download.kiwix.org/zim/ted_en_playlist-10-years-of-ted-talks-powerfu.zim
-sudo wget https://download.kiwix.org/zim/ted_en_playlist-10-years-of-ted-talks-radical.zim
-sudo wget https://download.kiwix.org/zim/ted_en_playlist-11-ted-talks-by-speakers-with.zim
-sudo wget https://download.kiwix.org/zim/ted_en_playlist-5-talks-on-the-truth-about-lyi.zim
-sudo wget https://download.kiwix.org/zim/ted_en_playlist-7-talks-to-help-you-find-the-r.zim
-sudo wget https://download.kiwix.org/zim/ted_en_playlist-8-ways-to-fuel-innovation.zim
-sudo wget https://download.kiwix.org/zim/ted_en_playlist-a-better-you.zim
+wget https://download.kiwix.org/zim/ted_en_global_issues.zim
+wget https://download.kiwix.org/zim/ted_en_playlist-10-days-of-positive-thinking.zim
+wget https://download.kiwix.org/zim/ted_en_playlist-10-great-talks-to-celebrate-bl.zim
+wget https://download.kiwix.org/zim/ted_en_playlist-10-guiding-principles-for-leaders.zim
+wget https://download.kiwix.org/zim/ted_en_playlist-10-years-of-ted-talks.zim
+wget https://download.kiwix.org/zim/ted_en_playlist-10-years-of-ted-talks-powerfu.zim
+wget https://download.kiwix.org/zim/ted_en_playlist-10-years-of-ted-talks-radical.zim
+wget https://download.kiwix.org/zim/ted_en_playlist-11-ted-talks-by-speakers-with.zim
+wget https://download.kiwix.org/zim/ted_en_playlist-5-talks-on-the-truth-about-lyi.zim
+wget https://download.kiwix.org/zim/ted_en_playlist-7-talks-to-help-you-find-the-r.zim
+wget https://download.kiwix.org/zim/ted_en_playlist-8-ways-to-fuel-innovation.zim
+wget https://download.kiwix.org/zim/ted_en_playlist-a-better-you.zim
 sudo wget https://download.kiwix.org/zim/ted_en_playlist-a-look-into-american-politics.zim
 sudo wget https://download.kiwix.org/zim/ted_en_playlist-advice-to-help-you-be-a-great.zim
 sudo wget https://download.kiwix.org/zim/ted_en_playlist-deep-studies-of-humanity.zim
@@ -29,597 +29,595 @@ sudo wget http://download.kiwix.org/zim/aimhi_philosophy.zim
 sudo wget http://download.kiwix.org/zim/dandwiki_en_all_maxi.zim
 sudo wget http://download.kiwix.org/zim/raspberrypi.stackexchange.com_en_all.zim
 sudo wget http://download.kiwix.org/zim/wikibooks_en_all_maxi.zim
-
-
-http://download.kiwix.org/zim/ted_en_technology.zim
-http://download.kiwix.org/zim/ted_en_science.zim
-http://download.kiwix.org/zim/ted_en_global_issues.zim
-http://download.kiwix.org/zim/ted_en_business.zim
-http://download.kiwix.org/zim/ted_en_design.zim
-http://download.kiwix.org/zim/ted_en_entertainment.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-fight-against-viruses.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-to-help-you-understand-r.zim
-http://download.kiwix.org/zim/ted_en_playlist-ted-talks-for-when-you-re-having-an-existential-crisis.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-importance-of-self-care.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-most-popular-ted-talks-in-hindi.zim
-http://download.kiwix.org/zim/ted_en_playlist-10-great-talks-to-celebrate-bl.zim
-http://download.kiwix.org/zim/ted_en_playlist-staying-in-geek-out.zim
-http://download.kiwix.org/zim/ted_en_playlist-our-future-in-cities.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-most-popular-ted-talks-of-2018.zim
-http://download.kiwix.org/zim/ted_en_playlist-design-giants.zim
-http://download.kiwix.org/zim/ted_en_playlist-how-do-you-solve-a-problem-lik.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-power-of-film.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-most-translated-ted-talks.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-art-of-the-interview.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-most-popular-talks-of-2019.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-global-power-shift.zim
-http://download.kiwix.org/zim/ted_en_playlist-ted-talks-by-strong-women-lead.zim
-http://download.kiwix.org/zim/ted_en_playlist-how-to-sustain-meaningful-relationships-near-and-far.zim
-http://download.kiwix.org/zim/ted_en_playlist-planes-trains-and-automobiles.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-big-picture.zim
-http://download.kiwix.org/zim/ted_en_playlist-way-way-out-there.zim
-http://download.kiwix.org/zim/ted_en_playlist-interview-with-a-business-mogul.zim
-http://download.kiwix.org/zim/ted_en_playlist-ted-macarthur-grant-winners.zim
-http://download.kiwix.org/zim/ted_en_playlist-will-drones-save-us-or-destroy.zim
-http://download.kiwix.org/zim/ted_en_playlist-an-introduction-to-ted-talks.zim
-http://download.kiwix.org/zim/ted_en_playlist-bill-gates-my-13-favorite-tal.zim
-http://download.kiwix.org/zim/ted_en_playlist-ted-talks-en-espanol.zim
-http://download.kiwix.org/zim/ted_en_playlist-personal-tales-from-the-edge-o.zim
-http://download.kiwix.org/zim/ted_en_playlist-what-doctors-worry-about.zim
-http://download.kiwix.org/zim/ted_en_playlist-our-brains-predictably-irrati.zim
-http://download.kiwix.org/zim/ted_en_playlist-maestros-if-you-please.zim
-http://download.kiwix.org/zim/ted_en_playlist-war-stories.zim
-http://download.kiwix.org/zim/ted_en_playlist-climate-change-oh-it-s-real.zim
-http://download.kiwix.org/zim/ted_en_playlist-calling-all-sports-fans.zim
-http://download.kiwix.org/zim/ted_en_playlist-ocean-wonders.zim
-http://download.kiwix.org/zim/ted_en_playlist-what-makes-you-happy.zim
-http://download.kiwix.org/zim/ted_en_playlist-advice-to-help-you-be-a-great.zim
-http://download.kiwix.org/zim/ted_en_playlist-objects-of-desire.zim
-http://download.kiwix.org/zim/ted_en_playlist-making-sense-of-too-much-data.zim
-http://download.kiwix.org/zim/ted_en_playlist-are-you-there-god.zim
-http://download.kiwix.org/zim/ted_en_playlist-top-ted-talks-of-2016.zim
-http://download.kiwix.org/zim/ted_en_playlist-most-popular-ted-talks-of-2017.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-paths-and-possibilities-of-police-reform.zim
-http://download.kiwix.org/zim/ted_en_playlist-11-must-see-ted-talks.zim
-http://download.kiwix.org/zim/ted_en_playlist-how-to-survive-following-your-passions.zim
-http://download.kiwix.org/zim/ted_en_playlist-12-ted-talks-by-living-legends.zim
-http://download.kiwix.org/zim/ted_en_playlist-can-you-believe-your-eyes.zim
-http://download.kiwix.org/zim/ted_en_playlist-little-known-big-history.zim
-http://download.kiwix.org/zim/ted_en_playlist-survivor-s-wisdom.zim
-http://download.kiwix.org/zim/ted_en_playlist-how-does-my-brain-work.zim
-http://download.kiwix.org/zim/ted_en_playlist-a-better-you.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-most-binge-worthy-ted-talks.zim
-http://download.kiwix.org/zim/ted_en_playlist-how-leaders-inspire.zim
-http://download.kiwix.org/zim/ted_en_playlist-10-talks-from-authors.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-end-of-oil.zim
-http://download.kiwix.org/zim/ted_en_playlist-why-we-do-the-things-we-do.zim
-http://download.kiwix.org/zim/ted_en_playlist-music-around-the-world.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-issues-at-stake-in-the-us.zim
-http://download.kiwix.org/zim/ted_en_playlist-when-you-need-to-take-an-intellectual-snack-break.zim
-http://download.kiwix.org/zim/ted_en_playlist-ted-talks-for-20-somethings.zim
-http://download.kiwix.org/zim/ted_en_playlist-everything-you-thought-was.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-dark-side-of-data.zim
-http://download.kiwix.org/zim/ted_en_playlist-shawn-achor-work-happier.zim
-http://download.kiwix.org/zim/ted_en_playlist-what-does-the-future-look-like.zim
-http://download.kiwix.org/zim/ted_en_playlist-weird-facts-about-the-human-bo.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-quest-to-end-poverty.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-for-when-you-realize-you.zim
-http://download.kiwix.org/zim/ted_en_playlist-how-music-affects-us.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-power-of-the-individual-vo.zim
-http://download.kiwix.org/zim/ted_en_playlist-earth-appreciated.zim
-http://download.kiwix.org/zim/ted_en_playlist-our-digital-lives.zim
-http://download.kiwix.org/zim/ted_en_playlist-ted-s-how-to-guide-to-everyday.zim
-http://download.kiwix.org/zim/ted_en_playlist-check-your-assumptions.zim
-http://download.kiwix.org/zim/ted_en_playlist-life-is-beautiful.zim
-http://download.kiwix.org/zim/ted_en_playlist-freedom-rising.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-for-former-band-geeks.zim
-http://download.kiwix.org/zim/ted_en_playlist-10-talks-by-women-that-everyon.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-funniest-ted-talks.zim
-http://download.kiwix.org/zim/ted_en_playlist-craftsmanship.zim
-http://download.kiwix.org/zim/ted_en_playlist-counterintuitive-career-advice.zim
-http://download.kiwix.org/zim/ted_en_playlist-jill-bolte-taylor-10-talks-on.zim
-http://download.kiwix.org/zim/ted_en_playlist-for-classical-music-lovers.zim
-http://download.kiwix.org/zim/ted_en_playlist-ted-deep-cuts-vol-1.zim
-http://download.kiwix.org/zim/ted_en_playlist-ted-deep-cuts-vol-3.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-to-restore-your-faith-in-1.zim
-http://download.kiwix.org/zim/ted_en_playlist-close-up-and-personal.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-world-of-tiny-things.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-that-just-might-save-you.zim
-http://download.kiwix.org/zim/ted_en_playlist-depths-of-corruption.zim
-http://download.kiwix.org/zim/ted_en_playlist-re-imagining-school.zim
-http://download.kiwix.org/zim/ted_en_playlist-how-we-study-space.zim
-http://download.kiwix.org/zim/ted_en_playlist-what-2016-taught-us-about-ours.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-struggle-of-mental-health.zim
-http://download.kiwix.org/zim/ted_en_playlist-fascinating-history.zim
-http://download.kiwix.org/zim/ted_en_playlist-who-are-the-hackers.zim
-http://download.kiwix.org/zim/ted_en_playlist-what-are-we-really-teaching-ai.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-for-theater-geeks.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-by-fierce-moms.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-for-when-you-re-expectin.zim
-http://download.kiwix.org/zim/ted_en_playlist-how-we-make-choices.zim
-http://download.kiwix.org/zim/ted_en_playlist-to-boldly-go.zim
-http://download.kiwix.org/zim/ted_en_playlist-refugees-welcome.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-for-podcast-lovers.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-artist-is-in.zim
-http://download.kiwix.org/zim/ted_en_playlist-12-ted-talks-for-when-you-wish.zim
-http://download.kiwix.org/zim/ted_en_playlist-how-to-get-into-a-work-from-home-mindset.zim
-http://download.kiwix.org/zim/ted_en_playlist-open-source-open-world.zim
-http://download.kiwix.org/zim/ted_en_playlist-why-tech-needs-diversity.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-to-help-you-understand-s.zim
-http://download.kiwix.org/zim/ted_en_playlist-ted-deep-cuts-vol-2.zim
-http://download.kiwix.org/zim/ted_en_playlist-curator-s-picks-top-10-ted-talks-of-2017.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-that-ll-give-you-a-warm-fuzzy-feeling.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-for-the-thoughtful-trave.zim
-http://download.kiwix.org/zim/ted_en_playlist-10-years-of-ted-talks-radical.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-pursuit-of-justice.zim
-http://download.kiwix.org/zim/ted_en_playlist-how-passion-becomes-purpose.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-value-of-skepticism.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-to-help-you-pick-your-ma.zim
-http://download.kiwix.org/zim/ted_en_playlist-words-words-words.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-autism-spectrum.zim
-http://download.kiwix.org/zim/ted_en_playlist-revolutionary-women.zim
-http://download.kiwix.org/zim/ted_en_playlist-apocalypse-survival-guide.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-best-hans-rosling-talks-yo.zim
-http://download.kiwix.org/zim/ted_en_playlist-emerging-markets.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-to-watch-instead-of-shop.zim
-http://download.kiwix.org/zim/ted_en_playlist-secret-realities.zim
-http://download.kiwix.org/zim/ted_en_playlist-11-ted-talks-by-brilliant-wome.zim
-http://download.kiwix.org/zim/ted_en_playlist-plantastic.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-most-actionable-ted-talks.zim
-http://download.kiwix.org/zim/ted_en_playlist-social-good-inc.zim
-http://download.kiwix.org/zim/ted_en_playlist-architectural-inspiration.zim
-http://download.kiwix.org/zim/ted_en_playlist-secrets-to-understanding-life.zim
-http://download.kiwix.org/zim/ted_en_playlist-best-science-and-tech-of-2016.zim
-http://download.kiwix.org/zim/ted_en_playlist-great-stories-for-your-commute.zim
-http://download.kiwix.org/zim/ted_en_playlist-design-of-useful-things.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-on-feminism.zim
-http://download.kiwix.org/zim/ted_en_playlist-tech-breakthrough.zim
-http://download.kiwix.org/zim/ted_en_playlist-all-kinds-of-minds.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-future-of-medicine.zim
-http://download.kiwix.org/zim/ted_en_playlist-listen-up.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-strangeness-of-everyday-li.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-road-to-peace.zim
-http://download.kiwix.org/zim/ted_en_playlist-motivation-for-the-new-year-and-every-day-really.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-that-celebrate-sweet-dad.zim
-http://download.kiwix.org/zim/ted_en_playlist-misconceptions-of-islam-and-mu.zim
-http://download.kiwix.org/zim/ted_en_playlist-10-guiding-principles-for-leaders.zim
-http://download.kiwix.org/zim/ted_en_playlist-what-does-it-mean-to-express-yourself.zim
-http://download.kiwix.org/zim/ted_en_playlist-how-to-talk-about-your-feelings.zim
-http://download.kiwix.org/zim/ted_en_playlist-media-with-meaning.zim
-http://download.kiwix.org/zim/ted_en_playlist-insects-are-awesome.zim
-http://download.kiwix.org/zim/ted_en_playlist-what-is-success.zim
-http://download.kiwix.org/zim/ted_en_playlist-stories-from-the-front-lines-of-parenting.zim
-http://download.kiwix.org/zim/ted_en_playlist-insights-on-terrorism.zim
-http://download.kiwix.org/zim/ted_en_playlist-virtuosos.zim
-http://download.kiwix.org/zim/ted_en_playlist-in-the-mood-for-love.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-for-foodies.zim
-http://download.kiwix.org/zim/ted_en_playlist-math-talks-to-blow-your-mind.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-best-mustaches-on-ted-com.zim
-http://download.kiwix.org/zim/ted_en_playlist-ted-talks-as-the-seven-deadly-sins.zim
-http://download.kiwix.org/zim/ted_en_playlist-let-s-get-nerdy.zim
-http://download.kiwix.org/zim/ted_en_playlist-why-climate-change-is-a-human.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-for-binge-watching.zim
-http://download.kiwix.org/zim/ted_en_playlist-10-days-of-positive-thinking.zim
-http://download.kiwix.org/zim/ted_en_playlist-bono-8-talks-that-give-me-hop.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-on-human-resources.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-to-watch-with-kids.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-to-watch-when-your-famil.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-secret-lives-of-plants.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-for-when-you-feel-like-y.zim
-http://download.kiwix.org/zim/ted_en_playlist-what-does-family-mean.zim
-http://download.kiwix.org/zim/ted_en_playlist-curator-s-picks-top-10-ted-talks-of-2019.zim
-http://download.kiwix.org/zim/ted_en_playlist-dinos.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-on-artificial-intelligen.zim
-http://download.kiwix.org/zim/ted_en_playlist-designing-for-disability.zim
-http://download.kiwix.org/zim/ted_en_playlist-statistically-speaking.zim
-http://download.kiwix.org/zim/ted_en_playlist-take-charge-of-your-healthcare.zim
-http://download.kiwix.org/zim/ted_en_playlist-should-we-redesign-humans.zim
-http://download.kiwix.org/zim/ted_en_playlist-10-years-of-ted-talks-powerfu.zim
-http://download.kiwix.org/zim/ted_en_playlist-might-you-live-a-great-deal-lo.zim
-http://download.kiwix.org/zim/ted_en_playlist-reconnect-with-nature.zim
-http://download.kiwix.org/zim/ted_en_playlist-how-to-practice-emotional-first-aid.zim
-http://download.kiwix.org/zim/ted_en_playlist-ben-affleck-8-talks-that-amaz.zim
-http://download.kiwix.org/zim/ted_en_playlist-how-to-nurture-brilliant-women-in-stem.zim
-http://download.kiwix.org/zim/ted_en_playlist-7-talks-to-help-you-find-the-r.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-to-help-you-shake-off-re.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-power-of-fiction-1.zim
-http://download.kiwix.org/zim/ted_en_playlist-10-years-of-ted-talks-amazing.zim
-http://download.kiwix.org/zim/ted_en_playlist-sex-can-we-talk.zim
-http://download.kiwix.org/zim/ted_en_playlist-adventures-in-mapping.zim
-http://download.kiwix.org/zim/ted_en_playlist-ted-under-20.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-emotional-impact-of-archit.zim
-http://download.kiwix.org/zim/ted_en_playlist-curator-s-picks-top-10-ted-talks-of-2018.zim
-http://download.kiwix.org/zim/ted_en_playlist-alexis-ohanian-9-talks-about.zim
-http://download.kiwix.org/zim/ted_en_playlist-how-to-protect-your-passions-from-burnout.zim
-http://download.kiwix.org/zim/ted_en_playlist-toys.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-to-get-you-through-your.zim
-http://download.kiwix.org/zim/ted_en_playlist-understanding-world-economics.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-to-help-you-focus-on-wha.zim
-http://download.kiwix.org/zim/ted_en_playlist-where-do-ideas-come-from.zim
-http://download.kiwix.org/zim/ted_en_playlist-how-do-ideas-travel.zim
-http://download.kiwix.org/zim/ted_en_playlist-faith-in-the-modern-world.zim
-http://download.kiwix.org/zim/ted_en_playlist-10-ideas-for-ending-hiv-aids.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-to-remind-you-that-your.zim
-http://download.kiwix.org/zim/ted_en_playlist-a-decade-in-review.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-10-most-popular-tedx-talks.zim
-http://download.kiwix.org/zim/ted_en_playlist-what-s-wrong-with-what-we-eat.zim
-http://download.kiwix.org/zim/ted_en_playlist-how-to-get-further-in-your-career.zim
-http://download.kiwix.org/zim/ted_en_playlist-spoken-word-fireworks.zim
-http://download.kiwix.org/zim/ted_en_playlist-truths-about-the-us-prison-system.zim
-http://download.kiwix.org/zim/ted_en_playlist-unsolved-mysteries.zim
-http://download.kiwix.org/zim/ted_en_playlist-a-cure-for-cancer.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-paradox-of-loneliness.zim
-http://download.kiwix.org/zim/ted_en_playlist-how-to-notice-and-build-joy-into-your-life.zim
-http://download.kiwix.org/zim/ted_en_playlist-south-america.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-for-when-you-want-to-sta-1.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-creative-spark.zim
-http://download.kiwix.org/zim/ted_en_playlist-11-ted-talks-by-speakers-with.zim
-http://download.kiwix.org/zim/ted_en_playlist-for-the-love-of-facts.zim
-http://download.kiwix.org/zim/ted_en_playlist-practice-makes-perfect.zim
-http://download.kiwix.org/zim/ted_en_playlist-sustainability-by-design.zim
-http://download.kiwix.org/zim/ted_en_playlist-how-to-overcome-your-fears.zim
-http://download.kiwix.org/zim/ted_en_playlist-work-smarter.zim
-http://download.kiwix.org/zim/ted_en_playlist-reduce-reuse-recycle.zim
-http://download.kiwix.org/zim/ted_en_playlist-personal-stories-from-conflict.zim
-http://download.kiwix.org/zim/ted_en_playlist-what-we-don-t-talk-about-when-we-talk-about-sex.zim
-http://download.kiwix.org/zim/ted_en_playlist-internet-origin-stories.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-to-restore-your-faith-in.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-for-the-hopeless-romanti.zim
-http://download.kiwix.org/zim/ted_en_playlist-animals-that-amaze.zim
-http://download.kiwix.org/zim/ted_en_playlist-reimagining-borders.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-forecast-calls-for.zim
-http://download.kiwix.org/zim/ted_en_playlist-technology-designed-by-nature.zim
-http://download.kiwix.org/zim/ted_en_playlist-how-does-dna-work.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-to-help-practice-patienc.zim
-http://download.kiwix.org/zim/ted_en_playlist-how-scientists-learn.zim
-http://download.kiwix.org/zim/ted_en_playlist-why-art-is-important-to-democracy.zim
-http://download.kiwix.org/zim/ted_en_playlist-bridging-cultural-differences.zim
-http://download.kiwix.org/zim/ted_en_playlist-new-tech-new-morals.zim
-http://download.kiwix.org/zim/ted_en_playlist-are-we-alone-in-the-universe.zim
-http://download.kiwix.org/zim/ted_en_playlist-who-s-watching-us.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-for-when-you-want-to-lau.zim
-http://download.kiwix.org/zim/ted_en_playlist-reggie-watts-9-mind-boggling.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-to-watch-with-the-entire.zim
-http://download.kiwix.org/zim/ted_en_playlist-a-blueprint-for-diversity-in-the-workplace.zim
-http://download.kiwix.org/zim/ted_en_playlist-when-your-beliefs-are-being-ch.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-for-procrastinators.zim
-http://download.kiwix.org/zim/ted_en_playlist-natural-wonder.zim
-http://download.kiwix.org/zim/ted_en_playlist-what-makes-businesses-work.zim
-http://download.kiwix.org/zim/ted_en_playlist-7-talks-with-insights-on-breas.zim
-http://download.kiwix.org/zim/ted_en_playlist-what-s-the-secret-to-living-longer.zim
-http://download.kiwix.org/zim/ted_en_playlist-a-love-letter-to-misfits.zim
-http://download.kiwix.org/zim/ted_en_playlist-david-blaine-my-favorite-talk.zim
-http://download.kiwix.org/zim/ted_en_playlist-gross.zim
-http://download.kiwix.org/zim/ted_en_playlist-jaw-dropping-science-breakthro.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-from-inspiring-teachers.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-to-give-you-a-confidence.zim
-http://download.kiwix.org/zim/ted_en_playlist-what-is-the-anthropocene.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-for-your-inner-child.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-to-give-you-wanderlust.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-for-when-you-want-to-sta.zim
-http://download.kiwix.org/zim/ted_en_playlist-slow-down-enjoy-life.zim
-http://download.kiwix.org/zim/ted_en_playlist-how-language-changes-over-time.zim
-http://download.kiwix.org/zim/ted_en_playlist-reclaim-the-past-save-the-future.zim
-http://download.kiwix.org/zim/ted_en_playlist-future-forward-thoughts-on-tech.zim
-http://download.kiwix.org/zim/ted_en_playlist-tough-talks-that-will-open-you.zim
-http://download.kiwix.org/zim/ted_en_playlist-small-ways-to-change-the-world.zim
-http://download.kiwix.org/zim/ted_en_playlist-how-to-learn-from-mistakes.zim
-http://download.kiwix.org/zim/ted_en_playlist-how-art-shapes-conversations.zim
-http://download.kiwix.org/zim/ted_en_playlist-blueprints-for-the-next-genera.zim
-http://download.kiwix.org/zim/ted_en_playlist-how-to-invest-in-social-good.zim
-http://download.kiwix.org/zim/ted_en_playlist-great-ted-talks-for-language-practice.zim
-http://download.kiwix.org/zim/ted_en_playlist-10-years-of-ted-talks.zim
-http://download.kiwix.org/zim/ted_en_playlist-don-t-you-wish-you-lived-here.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-link-between-health-and-racism.zim
-http://download.kiwix.org/zim/ted_en_playlist-live-out-your-sci-fi-dreams.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-importance-of-play.zim
-http://download.kiwix.org/zim/ted_en_playlist-what-your-data-reveals-about-y.zim
-http://download.kiwix.org/zim/ted_en_playlist-how-to-be-your-own-advocate.zim
-http://download.kiwix.org/zim/ted_en_playlist-who-are-you.zim
-http://download.kiwix.org/zim/ted_en_playlist-math-in-unexpected-places.zim
-http://download.kiwix.org/zim/ted_en_playlist-how-your-brain-constructs-real.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-power-of-social-media.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-to-help-you-become-a-better-researcher.zim
-http://download.kiwix.org/zim/ted_en_playlist-how-to-revive-a-city.zim
-http://download.kiwix.org/zim/ted_en_playlist-let-s-end-the-silence-around-a.zim
-http://download.kiwix.org/zim/ted_en_playlist-ted-talks-for-national-bully-prevention-month.zim
-http://download.kiwix.org/zim/ted_en_playlist-great-ted-talks-to-inspire-fiction-writing.zim
-http://download.kiwix.org/zim/ted_en_playlist-extreme-sports.zim
-http://download.kiwix.org/zim/ted_en_playlist-how-to-live-with-robots.zim
-http://download.kiwix.org/zim/ted_en_playlist-why-we-need-brave-journalists.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-to-help-you-believe-in-love-again.zim
-http://download.kiwix.org/zim/ted_en_playlist-what-happens-when-the-robots-take-our-jobs.zim
-http://download.kiwix.org/zim/ted_en_playlist-how-to-be-a-good-mentor.zim
-http://download.kiwix.org/zim/ted_en_playlist-8-ways-to-fuel-innovation.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-inventor-s-corner.zim
-http://download.kiwix.org/zim/ted_en_playlist-how-and-why-to-forgive.zim
-http://download.kiwix.org/zim/ted_en_playlist-lgbtq-pride.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-complexity-of-memory.zim
-http://download.kiwix.org/zim/ted_en_playlist-7-stunning-performances-that-w.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-to-make-your-commute-go.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-influence-of-algorithms.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-for-when-you-wish-you-ha.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-power-of-protest.zim
-http://download.kiwix.org/zim/ted_en_playlist-9-trippy-ted-talks.zim
-http://download.kiwix.org/zim/ted_en_playlist-plug-into-your-power.zim
-http://download.kiwix.org/zim/ted_en_playlist-on-coming-out.zim
-http://download.kiwix.org/zim/ted_en_playlist-what-makes-earth-so-special.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-that-prove-you-already-l.zim
-http://download.kiwix.org/zim/ted_en_playlist-new-ways-to-think-about-death.zim
-http://download.kiwix.org/zim/ted_en_playlist-what-you-need-to-know-about-me.zim
-http://download.kiwix.org/zim/ted_en_playlist-how-to-turn-the-political-conv.zim
-http://download.kiwix.org/zim/ted_en_playlist-when-you-need-to-feel-awe-about-the-world-again.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-power-of-collaboration.zim
-http://download.kiwix.org/zim/ted_en_playlist-ancient-clues.zim
-http://download.kiwix.org/zim/ted_en_playlist-for-the-love-of-comics-and-car.zim
-http://download.kiwix.org/zim/ted_en_playlist-in-celebration-of-being-alone.zim
-http://download.kiwix.org/zim/ted_en_playlist-how-to-pop-our-filter-bubbles.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-to-watch-when-someone-ju.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-gender-spectrum.zim
-http://download.kiwix.org/zim/ted_en_playlist-barbra-streisand-8-must-see-t.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-that-ll-inspire-you-to-l.zim
-http://download.kiwix.org/zim/ted_en_playlist-before-public-speaking.zim
-http://download.kiwix.org/zim/ted_en_playlist-why-do-we-tell-stories.zim
-http://download.kiwix.org/zim/ted_en_playlist-how-did-the-internet-take-over-our-lives.zim
-http://download.kiwix.org/zim/ted_en_playlist-moocs-101.zim
-http://download.kiwix.org/zim/ted_en_playlist-how-architecture-can-connect-u.zim
-http://download.kiwix.org/zim/ted_en_playlist-big-solutions-using-cell-phone.zim
-http://download.kiwix.org/zim/ted_en_playlist-did-you-know.zim
-http://download.kiwix.org/zim/ted_en_playlist-incredibly-soothing-ted-talks.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-fabulous-life-of-germs.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-on-how-to-love-work-agai.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-conversation-around-sexual-assault.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-to-watch-when-your-company-s-reorganizing.zim
-http://download.kiwix.org/zim/ted_en_playlist-on-generosity.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-remix.zim
-http://download.kiwix.org/zim/ted_en_playlist-things-to-do-to-make-steam-lea.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-illuminating-benefits-of-videos-games.zim
-http://download.kiwix.org/zim/ted_en_playlist-how-can-we-better-treat-our-elders.zim
-http://download.kiwix.org/zim/ted_en_playlist-ted-talks-to-watch-when-you-wa.zim
-http://download.kiwix.org/zim/ted_en_playlist-what-death-can-teach-you-about.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-to-form-better-habits.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-for-neat-freaks.zim
-http://download.kiwix.org/zim/ted_en_playlist-how-to-make-compassion-thrive.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-that-ll-inspire-you-to-u.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-for-when-you-re-in-the-m.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-beauty-of-strangers.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-to-take-you-back-to-scho.zim
-http://download.kiwix.org/zim/ted_en_playlist-a-playbook-to-understanding-power.zim
-http://download.kiwix.org/zim/ted_en_playlist-a-look-into-american-politics.zim
-http://download.kiwix.org/zim/ted_en_playlist-sex-ed-for-adults.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-economy-of-trust.zim
-http://download.kiwix.org/zim/ted_en_playlist-how-to-spend-your-money.zim
-http://download.kiwix.org/zim/ted_en_playlist-7-talks-to-make-you-love-scien.zim
-http://download.kiwix.org/zim/ted_en_playlist-when-you-re-having-a-hard-time.zim
-http://download.kiwix.org/zim/ted_en_playlist-letters-to-our-daughters.zim
-http://download.kiwix.org/zim/ted_en_playlist-surprisingly-fun-ted-talks.zim
-http://download.kiwix.org/zim/ted_en_playlist-theories-of-evolution.zim
-http://download.kiwix.org/zim/ted_en_playlist-what-is-your-body-trying-to-tell-you.zim
-http://download.kiwix.org/zim/ted_en_playlist-sugata-mitra-s-5-favorite-educ.zim
-http://download.kiwix.org/zim/ted_en_playlist-extraordinary-larger-than-life-art.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-rise-of-africa-s-next-gene.zim
-http://download.kiwix.org/zim/ted_en_playlist-a-love-letter-to-libraries.zim
-http://download.kiwix.org/zim/ted_en_playlist-how-to-tell-a-story.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-about-fictional-world-building.zim
-http://download.kiwix.org/zim/ted_en_playlist-immigrants-who-founded-amazing-companies.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-to-help-you-get-through-the-work-week.zim
-http://download.kiwix.org/zim/ted_en_playlist-that-s-absurd.zim
-http://download.kiwix.org/zim/ted_en_playlist-how-can-we-improve-disaster-relief.zim
-http://download.kiwix.org/zim/ted_en_playlist-dissecting-cultures-of-hate.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-for-when-you-want-to-sta-2.zim
-http://download.kiwix.org/zim/ted_en_playlist-how-to-run-a-company-like-a-vi.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-weird-science-of-love.zim
-http://download.kiwix.org/zim/ted_en_playlist-true-crime.zim
-http://download.kiwix.org/zim/ted_en_playlist-sounds-of-the-wild.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-for-veterans.zim
-http://download.kiwix.org/zim/ted_en_playlist-give-thanks.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-art-of-finding-common-ground.zim
-http://download.kiwix.org/zim/ted_en_playlist-how-fearless-women-lead.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-roots-of-extremism.zim
-http://download.kiwix.org/zim/ted_en_playlist-craft-your-curiosity.zim
-http://download.kiwix.org/zim/ted_en_playlist-what-s-the-big-deal-about-mars.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-for-when-you-re-just-don.zim
-http://download.kiwix.org/zim/ted_en_playlist-how-to-mobilize-healthier-communities.zim
-http://download.kiwix.org/zim/ted_en_playlist-life-in-and-after-prison.zim
-http://download.kiwix.org/zim/ted_en_playlist-for-those-who-want-to-break-ou.zim
-http://download.kiwix.org/zim/ted_en_playlist-damon-lindelof-5-talks-i-sent.zim
-http://download.kiwix.org/zim/ted_en_playlist-powerful-art-activism.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-to-help-you-find-your-pu.zim
-http://download.kiwix.org/zim/ted_en_playlist-tech-that-can-hack-your-brain.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-to-watch-when-it-s-too-h.zim
-http://download.kiwix.org/zim/ted_en_playlist-what-would-it-be-like-to-live-on-another-planet.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-pros-and-cons-of-screens.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-for-understanding-the-dr.zim
-http://download.kiwix.org/zim/ted_en_playlist-powerful-poetry-by-fierce-women.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-benefits-of-failure.zim
-http://download.kiwix.org/zim/ted_en_playlist-carlton-cuse-6-talks-that-hel.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-secret-to-lifelong-friendship.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-to-watch-before-a-job-in.zim
-http://download.kiwix.org/zim/ted_en_playlist-5-talks-on-the-truth-about-lyi.zim
-http://download.kiwix.org/zim/ted_en_playlist-stand-up-to-bullying.zim
-http://download.kiwix.org/zim/ted_en_playlist-what-is-home.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-for-lifelong-readers.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-love-of-lifelong-learning.zim
-http://download.kiwix.org/zim/ted_en_playlist-code-the-next-universal-langu.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-for-jazz-lovers.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-for-gamers.zim
-http://download.kiwix.org/zim/ted_en_playlist-how-we-can-feed-the-future.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-to-help-you-negotiate.zim
-http://download.kiwix.org/zim/ted_en_playlist-a-trip-to-the-museum.zim
-http://download.kiwix.org/zim/ted_en_playlist-how-to-live-many-lives.zim
-http://download.kiwix.org/zim/ted_en_playlist-time-warp.zim
-http://download.kiwix.org/zim/ted_en_playlist-new-ways-to-think-about-beauty.zim
-http://download.kiwix.org/zim/ted_en_playlist-tips-for-inclusive-leadership.zim
-http://download.kiwix.org/zim/ted_en_playlist-unexpected-lessons-from-the-animal-world.zim
-http://download.kiwix.org/zim/ted_en_playlist-alternate-timelines-of-the-future.zim
-http://download.kiwix.org/zim/ted_en_playlist-what-direction-is-the-future-headed.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-future-of-surgery.zim
-http://download.kiwix.org/zim/ted_en_playlist-pop-culture-obsessions.zim
-http://download.kiwix.org/zim/ted_en_playlist-finding-and-bringing-closure.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-on-how-to-make-love-last.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-by-tv-and-movie-icons.zim
-http://download.kiwix.org/zim/ted_en_playlist-4-ted-talks-on-overcoming-depr.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-to-make-you-feel-good-ab.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-genius-of-babies.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-logic-of-loving-yourself.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-that-inspired-ted-books.zim
-http://download.kiwix.org/zim/ted_en_playlist-ted-talks-to-inspire-you-to-make-art.zim
-http://download.kiwix.org/zim/ted_en_playlist-love-technology.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-line-between-success-and-f.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-to-watch-on-a-sleepy-day-in.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-importance-of-educating-gi.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-history-of-the-future.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-for-when-growing-up-is-hard.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-to-support-a-healthy-deb.zim
-http://download.kiwix.org/zim/ted_en_playlist-kickstart-your-creativity.zim
-http://download.kiwix.org/zim/ted_en_playlist-top-10-talks-by-ted-fellows.zim
-http://download.kiwix.org/zim/ted_en_playlist-isaac-mizrahi-talks-that-are.zim
-http://download.kiwix.org/zim/ted_en_playlist-how-can-we-fix-the-learning-crisis.zim
-http://download.kiwix.org/zim/ted_en_playlist-simple-ways-to-spark-your-creativity.zim
-http://download.kiwix.org/zim/ted_en_playlist-thrifty-ted-talks.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-on-ancient-languages.zim
-http://download.kiwix.org/zim/ted_en_playlist-a-day-trip-to-antarctica.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-pursuit-of-curiosity-and-understanding.zim
-http://download.kiwix.org/zim/ted_en_playlist-life-lessons-from-writers.zim
-http://download.kiwix.org/zim/ted_en_playlist-innovations-that-made-expensiv.zim
-http://download.kiwix.org/zim/ted_en_playlist-mind-bending-questions-from-ph.zim
-http://download.kiwix.org/zim/ted_en_playlist-regrowing-the-human-body.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-path-to-reconciliation.zim
-http://download.kiwix.org/zim/ted_en_playlist-what-is-consciousness.zim
-http://download.kiwix.org/zim/ted_en_playlist-how-to-make-a-great-presentation.zim
-http://download.kiwix.org/zim/ted_en_playlist-ted-talks-for-dog-lovers.zim
-http://download.kiwix.org/zim/ted_en_playlist-how-masculinity-is-evolving.zim
-http://download.kiwix.org/zim/ted_en_playlist-what-are-emotions.zim
-http://download.kiwix.org/zim/ted_en_playlist-why-yes-actually-it-is-rocket.zim
-http://download.kiwix.org/zim/ted_en_playlist-how-microbes-shape-our-world.zim
-http://download.kiwix.org/zim/ted_en_playlist-simple-ways-to-support-the-arts.zim
-http://download.kiwix.org/zim/ted_en_playlist-why-not-walk-it-out.zim
-http://download.kiwix.org/zim/ted_en_playlist-how-coffee-can-bring-us-together.zim
-http://download.kiwix.org/zim/ted_en_playlist-5-talks-full-of-weird-facts-ab.zim
-http://download.kiwix.org/zim/ted_en_playlist-6-talks-for-television-lovers.zim
-http://download.kiwix.org/zim/ted_en_playlist-how-visual-effects-bring-movie.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-to-celebrate-spring.zim
-http://download.kiwix.org/zim/ted_en_playlist-how-to-take-charge-of-your-personal-finances.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-to-watch-when-the-intern.zim
-http://download.kiwix.org/zim/ted_en_playlist-ted-talks-for-bird-enthusiasts.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-for-people-who-hated-mat.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-deadly-genius-of-organized.zim
-http://download.kiwix.org/zim/ted_en_playlist-get-in-shape-for-real-this-ti.zim
-http://download.kiwix.org/zim/ted_en_playlist-unheard-and-forgotten-stories.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-to-inspire-projects-with-1.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-evolution-of-music.zim
-http://download.kiwix.org/zim/ted_en_playlist-brain-thaw-with-ted-fellows.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-that-explain-difficult-t.zim
-http://download.kiwix.org/zim/ted_en_playlist-graduation-now-what.zim
-http://download.kiwix.org/zim/ted_en_playlist-gorgeous-awe-inspiring-images-of-earth-from-above.zim
-http://download.kiwix.org/zim/ted_en_playlist-bobak-ferdowsi-on-our-home-in.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-to-help-you-re-design-y.zim
-http://download.kiwix.org/zim/ted_en_playlist-tednyc-design-lab.zim
-http://download.kiwix.org/zim/ted_en_playlist-is-it-time-for-de-extinction.zim
-http://download.kiwix.org/zim/ted_en_playlist-an-ode-to-unsung-heroes.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-to-help-you-manage-stres.zim
-http://download.kiwix.org/zim/ted_en_playlist-so-you-re-on-a-boat.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-harmful-effects-of-online-abuse.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-perfect-lunchtime-talks.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-to-help-you-find-the-ide.zim
-http://download.kiwix.org/zim/ted_en_playlist-when-school-s-out-for-the-summer.zim
-http://download.kiwix.org/zim/ted_en_playlist-fighting-impostor-syndrome.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-for-aspiring-rockstars.zim
-http://download.kiwix.org/zim/ted_en_playlist-what-s-the-future-of-food.zim
-http://download.kiwix.org/zim/ted_en_playlist-walk-walk-fashion-baby.zim
-http://download.kiwix.org/zim/ted_en_playlist-get-into-your-genes.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-to-watch-when-you-have-a.zim
-http://download.kiwix.org/zim/ted_en_playlist-what-s-happening-to-the-ocean.zim
-http://download.kiwix.org/zim/ted_en_playlist-sharks.zim
-http://download.kiwix.org/zim/ted_en_playlist-for-the-love-of-introverts.zim
-http://download.kiwix.org/zim/ted_en_playlist-what-comes-after-war.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-to-inspire-you-to-go-to.zim
-http://download.kiwix.org/zim/ted_en_playlist-rebel-designers.zim
-http://download.kiwix.org/zim/ted_en_playlist-poor-design-and-how-to-make-i.zim
-http://download.kiwix.org/zim/ted_en_playlist-why-we-need-bees.zim
-http://download.kiwix.org/zim/ted_en_playlist-let-s-redesign-the-medical-exp.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-that-will-make-you-think-twice.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-for-the-fiber-arts-lover.zim
-http://download.kiwix.org/zim/ted_en_playlist-art-made-of-unusual-stuff.zim
-http://download.kiwix.org/zim/ted_en_playlist-what-comes-after-grief.zim
-http://download.kiwix.org/zim/ted_en_playlist-history-visualized.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-magic-of-the-human-voice.zim
-http://download.kiwix.org/zim/ted_en_playlist-what-s-really-floating-out-in.zim
-http://download.kiwix.org/zim/ted_en_playlist-how-does-time-affect-you.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-on-water.zim
-http://download.kiwix.org/zim/ted_en_playlist-jamie-oliver-5-talks-that-ins.zim
-http://download.kiwix.org/zim/ted_en_playlist-how-to-tap-into-our-collective-empathy.zim
-http://download.kiwix.org/zim/ted_en_playlist-all-about-the-heart.zim
-http://download.kiwix.org/zim/ted_en_playlist-art-from-data.zim
-http://download.kiwix.org/zim/ted_en_playlist-lasers.zim
-http://download.kiwix.org/zim/ted_en_playlist-rethinking-how-we-use-the-sens.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-lights-and-sounds-of-the-u.zim
-http://download.kiwix.org/zim/ted_en_playlist-bizarre-science.zim
-http://download.kiwix.org/zim/ted_en_playlist-let-s-end-the-silence-around-s.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-to-watch-when-student-de.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-to-watch-during-breakfas.zim
-http://download.kiwix.org/zim/ted_en_playlist-how-we-live-now.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-for-cat-lovers.zim
-http://download.kiwix.org/zim/ted_en_playlist-eye-opening-undercover-journal.zim
-http://download.kiwix.org/zim/ted_en_playlist-things-you-ve-probably-never-n.zim
-http://download.kiwix.org/zim/ted_en_playlist-bjork-6-talks-that-are-music.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-to-watch-if-you-have-roommates.zim
-http://download.kiwix.org/zim/ted_en_playlist-how-data-can-save-lives.zim
-http://download.kiwix.org/zim/ted_en_playlist-how-the-brain-takes-care-of-it.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-for-when-you-re-starting-a-new-job-aug-2017.zim
-http://download.kiwix.org/zim/ted_en_playlist-smart-kids-life-advice-1.zim
-http://download.kiwix.org/zim/ted_en_playlist-street-art.zim
-http://download.kiwix.org/zim/ted_en_playlist-pets-of-the-future.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-mysteries-of-the-deep-sea.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-on-remembering-those-we.zim
-http://download.kiwix.org/zim/ted_en_playlist-goals.zim
-http://download.kiwix.org/zim/ted_en_playlist-there-s-an-app-for-that.zim
-http://download.kiwix.org/zim/ted_en_playlist-charming-talks-for-a-boost-on.zim
-http://download.kiwix.org/zim/ted_en_playlist-how-to-understand-your-inner-p.zim
-http://download.kiwix.org/zim/ted_en_playlist-ted-residency-talks.zim
-http://download.kiwix.org/zim/ted_en_playlist-dude-where-s-my-driverless-ca.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-to-save-you-time-at-work.zim
-http://download.kiwix.org/zim/ted_en_playlist-why-you-should-document-your-life.zim
-http://download.kiwix.org/zim/ted_en_playlist-kids-teens-and-their-great-big-ideas.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-power-of-asking.zim
-http://download.kiwix.org/zim/ted_en_playlist-how-navigate-questionable-information.zim
-http://download.kiwix.org/zim/ted_en_playlist-diane-von-furstenberg-s-5-favo.zim
-http://download.kiwix.org/zim/ted_en_playlist-for-parents-who-have-lost-a-child.zim
-http://download.kiwix.org/zim/ted_en_playlist-short-talks-to-watch-during-yo.zim
-http://download.kiwix.org/zim/ted_en_playlist-how-do-you-create-new-words.zim
-http://download.kiwix.org/zim/ted_en_playlist-inside-the-mind-of-psychopaths.zim
-http://download.kiwix.org/zim/ted_en_playlist-new-thoughts-on-addiction.zim
-http://download.kiwix.org/zim/ted_en_playlist-building-introspective-spaces.zim
-http://download.kiwix.org/zim/ted_en_playlist-seeing-sound-and-hearing-color.zim
-http://download.kiwix.org/zim/ted_en_playlist-fascinating-windows-into-human.zim
-http://download.kiwix.org/zim/ted_en_playlist-grow-your-own-stuff.zim
-http://download.kiwix.org/zim/ted_en_playlist-let-s-talk-crap.zim
-http://download.kiwix.org/zim/ted_en_playlist-young-inventors-who-are-changi.zim
-http://download.kiwix.org/zim/ted_en_playlist-a-playlist-from-srk-to-you.zim
-http://download.kiwix.org/zim/ted_en_playlist-life-lessons-from-the-four-elements.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-race-for-your-attention.zim
-http://download.kiwix.org/zim/ted_en_playlist-how-perfectionism-fails-us.zim
-http://download.kiwix.org/zim/ted_en_playlist-searching-for-knowledge-across.zim
-http://download.kiwix.org/zim/ted_en_playlist-short-talks-for-parents-who-ar.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-issue-of-homelessness.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-inherent-bias-in-our-techn.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-air-around-us.zim
-http://download.kiwix.org/zim/ted_en_playlist-why-it-s-sometimes-good-to-be-bored.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-to-kickstart-your-next-career.zim
-http://download.kiwix.org/zim/ted_en_playlist-dave-eggers-4-talks-that-are.zim
-http://download.kiwix.org/zim/ted_en_playlist-using-art-history-to-examine-modern-day.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-fight-against-alzheimer-s.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-to-watch-when-you-need-f.zim
-http://download.kiwix.org/zim/ted_en_playlist-deep-studies-of-humanity.zim
-http://download.kiwix.org/zim/ted_en_playlist-super-nerdy-talks-about-sports.zim
-http://download.kiwix.org/zim/ted_en_playlist-wacky-weird-art-made-by-ai.zim
-http://download.kiwix.org/zim/ted_en_playlist-how-space-technology-can-change-life-on-earth.zim
-http://download.kiwix.org/zim/ted_en_playlist-talks-on-folklore.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-mystery-and-wonder-of-stars.zim
-http://download.kiwix.org/zim/ted_en_playlist-things-that-build-themselves.zim
-http://download.kiwix.org/zim/ted_en_playlist-get-paid-what-you-re-worth.zim
-http://download.kiwix.org/zim/ted_en_playlist-the-big-problem-with-fashion-and-how-to-fix-it.zim
-http://download.kiwix.org/zim/ted_en_playlist-what-can-robots-teach-us-about.zim
+wget http://download.kiwix.org/zim/ted_en_technology.zim
+wget http://download.kiwix.org/zim/ted_en_science.zim
+wget http://download.kiwix.org/zim/ted_en_global_issues.zim
+wget http://download.kiwix.org/zim/ted_en_business.zim
+wget http://download.kiwix.org/zim/ted_en_design.zim
+wget http://download.kiwix.org/zim/ted_en_entertainment.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-fight-against-viruses.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-to-help-you-understand-r.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-ted-talks-for-when-you-re-having-an-existential-crisis.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-importance-of-self-care.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-most-popular-ted-talks-in-hindi.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-10-great-talks-to-celebrate-bl.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-staying-in-geek-out.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-our-future-in-cities.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-most-popular-ted-talks-of-2018.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-design-giants.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-how-do-you-solve-a-problem-lik.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-power-of-film.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-most-translated-ted-talks.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-art-of-the-interview.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-most-popular-talks-of-2019.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-global-power-shift.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-ted-talks-by-strong-women-lead.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-how-to-sustain-meaningful-relationships-near-and-far.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-planes-trains-and-automobiles.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-big-picture.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-way-way-out-there.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-interview-with-a-business-mogul.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-ted-macarthur-grant-winners.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-will-drones-save-us-or-destroy.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-an-introduction-to-ted-talks.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-bill-gates-my-13-favorite-tal.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-ted-talks-en-espanol.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-personal-tales-from-the-edge-o.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-what-doctors-worry-about.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-our-brains-predictably-irrati.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-maestros-if-you-please.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-war-stories.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-climate-change-oh-it-s-real.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-calling-all-sports-fans.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-ocean-wonders.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-what-makes-you-happy.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-advice-to-help-you-be-a-great.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-objects-of-desire.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-making-sense-of-too-much-data.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-are-you-there-god.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-top-ted-talks-of-2016.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-most-popular-ted-talks-of-2017.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-paths-and-possibilities-of-police-reform.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-11-must-see-ted-talks.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-how-to-survive-following-your-passions.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-12-ted-talks-by-living-legends.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-can-you-believe-your-eyes.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-little-known-big-history.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-survivor-s-wisdom.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-how-does-my-brain-work.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-a-better-you.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-most-binge-worthy-ted-talks.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-how-leaders-inspire.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-10-talks-from-authors.zim
+wget ttp://download.kiwix.org/zim/ted_en_playlist-the-end-of-oil.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-why-we-do-the-things-we-do.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-music-around-the-world.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-issues-at-stake-in-the-us.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-when-you-need-to-take-an-intellectual-snack-break.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-ted-talks-for-20-somethings.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-everything-you-thought-was.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-dark-side-of-data.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-shawn-achor-work-happier.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-what-does-the-future-look-like.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-weird-facts-about-the-human-bo.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-quest-to-end-poverty.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-for-when-you-realize-you.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-how-music-affects-us.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-power-of-the-individual-vo.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-earth-appreciated.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-our-digital-lives.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-ted-s-how-to-guide-to-everyday.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-check-your-assumptions.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-life-is-beautiful.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-freedom-rising.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-for-former-band-geeks.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-10-talks-by-women-that-everyon.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-funniest-ted-talks.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-craftsmanship.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-counterintuitive-career-advice.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-jill-bolte-taylor-10-talks-on.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-for-classical-music-lovers.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-ted-deep-cuts-vol-1.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-ted-deep-cuts-vol-3.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-to-restore-your-faith-in-1.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-close-up-and-personal.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-world-of-tiny-things.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-that-just-might-save-you.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-depths-of-corruption.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-re-imagining-school.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-how-we-study-space.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-what-2016-taught-us-about-ours.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-struggle-of-mental-health.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-fascinating-history.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-who-are-the-hackers.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-what-are-we-really-teaching-ai.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-for-theater-geeks.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-by-fierce-moms.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-for-when-you-re-expectin.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-how-we-make-choices.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-to-boldly-go.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-refugees-welcome.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-for-podcast-lovers.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-artist-is-in.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-12-ted-talks-for-when-you-wish.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-how-to-get-into-a-work-from-home-mindset.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-open-source-open-world.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-why-tech-needs-diversity.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-to-help-you-understand-s.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-ted-deep-cuts-vol-2.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-curator-s-picks-top-10-ted-talks-of-2017.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-that-ll-give-you-a-warm-fuzzy-feeling.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-for-the-thoughtful-trave.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-10-years-of-ted-talks-radical.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-pursuit-of-justice.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-how-passion-becomes-purpose.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-value-of-skepticism.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-to-help-you-pick-your-ma.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-words-words-words.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-autism-spectrum.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-revolutionary-women.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-apocalypse-survival-guide.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-best-hans-rosling-talks-yo.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-emerging-markets.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-to-watch-instead-of-shop.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-secret-realities.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-11-ted-talks-by-brilliant-wome.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-plantastic.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-most-actionable-ted-talks.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-social-good-inc.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-architectural-inspiration.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-secrets-to-understanding-life.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-best-science-and-tech-of-2016.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-great-stories-for-your-commute.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-design-of-useful-things.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-on-feminism.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-tech-breakthrough.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-all-kinds-of-minds.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-future-of-medicine.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-listen-up.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-strangeness-of-everyday-li.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-road-to-peace.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-motivation-for-the-new-year-and-every-day-really.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-that-celebrate-sweet-dad.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-misconceptions-of-islam-and-mu.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-10-guiding-principles-for-leaders.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-what-does-it-mean-to-express-yourself.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-how-to-talk-about-your-feelings.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-media-with-meaning.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-insects-are-awesome.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-what-is-success.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-stories-from-the-front-lines-of-parenting.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-insights-on-terrorism.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-virtuosos.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-in-the-mood-for-love.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-for-foodies.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-math-talks-to-blow-your-mind.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-best-mustaches-on-ted-com.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-ted-talks-as-the-seven-deadly-sins.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-let-s-get-nerdy.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-why-climate-change-is-a-human.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-for-binge-watching.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-10-days-of-positive-thinking.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-bono-8-talks-that-give-me-hop.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-on-human-resources.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-to-watch-with-kids.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-to-watch-when-your-famil.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-secret-lives-of-plants.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-for-when-you-feel-like-y.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-what-does-family-mean.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-curator-s-picks-top-10-ted-talks-of-2019.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-dinos.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-on-artificial-intelligen.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-designing-for-disability.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-statistically-speaking.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-take-charge-of-your-healthcare.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-should-we-redesign-humans.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-10-years-of-ted-talks-powerfu.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-might-you-live-a-great-deal-lo.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-reconnect-with-nature.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-how-to-practice-emotional-first-aid.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-ben-affleck-8-talks-that-amaz.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-how-to-nurture-brilliant-women-in-stem.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-7-talks-to-help-you-find-the-r.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-to-help-you-shake-off-re.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-power-of-fiction-1.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-10-years-of-ted-talks-amazing.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-sex-can-we-talk.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-adventures-in-mapping.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-ted-under-20.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-emotional-impact-of-archit.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-curator-s-picks-top-10-ted-talks-of-2018.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-alexis-ohanian-9-talks-about.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-how-to-protect-your-passions-from-burnout.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-toys.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-to-get-you-through-your.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-understanding-world-economics.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-to-help-you-focus-on-wha.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-where-do-ideas-come-from.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-how-do-ideas-travel.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-faith-in-the-modern-world.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-10-ideas-for-ending-hiv-aids.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-to-remind-you-that-your.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-a-decade-in-review.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-10-most-popular-tedx-talks.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-what-s-wrong-with-what-we-eat.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-how-to-get-further-in-your-career.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-spoken-word-fireworks.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-truths-about-the-us-prison-system.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-unsolved-mysteries.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-a-cure-for-cancer.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-paradox-of-loneliness.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-how-to-notice-and-build-joy-into-your-life.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-south-america.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-for-when-you-want-to-sta-1.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-creative-spark.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-11-ted-talks-by-speakers-with.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-for-the-love-of-facts.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-practice-makes-perfect.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-sustainability-by-design.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-how-to-overcome-your-fears.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-work-smarter.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-reduce-reuse-recycle.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-personal-stories-from-conflict.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-what-we-don-t-talk-about-when-we-talk-about-sex.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-internet-origin-stories.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-to-restore-your-faith-in.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-for-the-hopeless-romanti.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-animals-that-amaze.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-reimagining-borders.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-forecast-calls-for.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-technology-designed-by-nature.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-how-does-dna-work.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-to-help-practice-patienc.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-how-scientists-learn.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-why-art-is-important-to-democracy.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-bridging-cultural-differences.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-new-tech-new-morals.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-are-we-alone-in-the-universe.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-who-s-watching-us.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-for-when-you-want-to-lau.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-reggie-watts-9-mind-boggling.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-to-watch-with-the-entire.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-a-blueprint-for-diversity-in-the-workplace.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-when-your-beliefs-are-being-ch.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-for-procrastinators.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-natural-wonder.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-what-makes-businesses-work.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-7-talks-with-insights-on-breas.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-what-s-the-secret-to-living-longer.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-a-love-letter-to-misfits.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-david-blaine-my-favorite-talk.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-gross.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-jaw-dropping-science-breakthro.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-from-inspiring-teachers.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-to-give-you-a-confidence.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-what-is-the-anthropocene.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-for-your-inner-child.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-to-give-you-wanderlust.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-for-when-you-want-to-sta.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-slow-down-enjoy-life.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-how-language-changes-over-time.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-reclaim-the-past-save-the-future.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-future-forward-thoughts-on-tech.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-tough-talks-that-will-open-you.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-small-ways-to-change-the-world.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-how-to-learn-from-mistakes.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-how-art-shapes-conversations.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-blueprints-for-the-next-genera.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-how-to-invest-in-social-good.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-great-ted-talks-for-language-practice.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-10-years-of-ted-talks.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-don-t-you-wish-you-lived-here.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-link-between-health-and-racism.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-live-out-your-sci-fi-dreams.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-importance-of-play.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-what-your-data-reveals-about-y.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-how-to-be-your-own-advocate.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-who-are-you.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-math-in-unexpected-places.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-how-your-brain-constructs-real.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-power-of-social-media.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-to-help-you-become-a-better-researcher.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-how-to-revive-a-city.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-let-s-end-the-silence-around-a.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-ted-talks-for-national-bully-prevention-month.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-great-ted-talks-to-inspire-fiction-writing.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-extreme-sports.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-how-to-live-with-robots.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-why-we-need-brave-journalists.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-to-help-you-believe-in-love-again.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-what-happens-when-the-robots-take-our-jobs.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-how-to-be-a-good-mentor.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-8-ways-to-fuel-innovation.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-inventor-s-corner.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-how-and-why-to-forgive.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-lgbtq-pride.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-complexity-of-memory.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-7-stunning-performances-that-w.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-to-make-your-commute-go.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-influence-of-algorithms.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-for-when-you-wish-you-ha.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-power-of-protest.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-9-trippy-ted-talks.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-plug-into-your-power.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-on-coming-out.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-what-makes-earth-so-special.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-that-prove-you-already-l.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-new-ways-to-think-about-death.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-what-you-need-to-know-about-me.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-how-to-turn-the-political-conv.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-when-you-need-to-feel-awe-about-the-world-again.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-power-of-collaboration.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-ancient-clues.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-for-the-love-of-comics-and-car.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-in-celebration-of-being-alone.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-how-to-pop-our-filter-bubbles.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-to-watch-when-someone-ju.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-gender-spectrum.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-barbra-streisand-8-must-see-t.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-that-ll-inspire-you-to-l.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-before-public-speaking.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-why-do-we-tell-stories.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-how-did-the-internet-take-over-our-lives.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-moocs-101.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-how-architecture-can-connect-u.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-big-solutions-using-cell-phone.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-did-you-know.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-incredibly-soothing-ted-talks.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-fabulous-life-of-germs.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-on-how-to-love-work-agai.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-conversation-around-sexual-assault.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-to-watch-when-your-company-s-reorganizing.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-on-generosity.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-remix.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-things-to-do-to-make-steam-lea.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-illuminating-benefits-of-videos-games.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-how-can-we-better-treat-our-elders.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-ted-talks-to-watch-when-you-wa.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-what-death-can-teach-you-about.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-to-form-better-habits.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-for-neat-freaks.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-how-to-make-compassion-thrive.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-that-ll-inspire-you-to-u.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-for-when-you-re-in-the-m.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-beauty-of-strangers.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-to-take-you-back-to-scho.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-a-playbook-to-understanding-power.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-a-look-into-american-politics.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-sex-ed-for-adults.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-economy-of-trust.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-how-to-spend-your-money.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-7-talks-to-make-you-love-scien.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-when-you-re-having-a-hard-time.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-letters-to-our-daughters.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-surprisingly-fun-ted-talks.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-theories-of-evolution.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-what-is-your-body-trying-to-tell-you.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-sugata-mitra-s-5-favorite-educ.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-extraordinary-larger-than-life-art.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-rise-of-africa-s-next-gene.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-a-love-letter-to-libraries.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-how-to-tell-a-story.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-about-fictional-world-building.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-immigrants-who-founded-amazing-companies.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-to-help-you-get-through-the-work-week.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-that-s-absurd.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-how-can-we-improve-disaster-relief.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-dissecting-cultures-of-hate.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-for-when-you-want-to-sta-2.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-how-to-run-a-company-like-a-vi.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-weird-science-of-love.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-true-crime.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-sounds-of-the-wild.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-for-veterans.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-give-thanks.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-art-of-finding-common-ground.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-how-fearless-women-lead.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-roots-of-extremism.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-craft-your-curiosity.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-what-s-the-big-deal-about-mars.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-for-when-you-re-just-don.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-how-to-mobilize-healthier-communities.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-life-in-and-after-prison.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-for-those-who-want-to-break-ou.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-damon-lindelof-5-talks-i-sent.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-powerful-art-activism.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-to-help-you-find-your-pu.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-tech-that-can-hack-your-brain.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-to-watch-when-it-s-too-h.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-what-would-it-be-like-to-live-on-another-planet.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-pros-and-cons-of-screens.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-for-understanding-the-dr.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-powerful-poetry-by-fierce-women.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-benefits-of-failure.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-carlton-cuse-6-talks-that-hel.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-secret-to-lifelong-friendship.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-to-watch-before-a-job-in.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-5-talks-on-the-truth-about-lyi.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-stand-up-to-bullying.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-what-is-home.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-for-lifelong-readers.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-love-of-lifelong-learning.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-code-the-next-universal-langu.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-for-jazz-lovers.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-for-gamers.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-how-we-can-feed-the-future.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-to-help-you-negotiate.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-a-trip-to-the-museum.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-how-to-live-many-lives.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-time-warp.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-new-ways-to-think-about-beauty.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-tips-for-inclusive-leadership.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-unexpected-lessons-from-the-animal-world.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-alternate-timelines-of-the-future.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-what-direction-is-the-future-headed.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-future-of-surgery.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-pop-culture-obsessions.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-finding-and-bringing-closure.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-on-how-to-make-love-last.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-by-tv-and-movie-icons.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-4-ted-talks-on-overcoming-depr.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-to-make-you-feel-good-ab.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-genius-of-babies.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-logic-of-loving-yourself.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-that-inspired-ted-books.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-ted-talks-to-inspire-you-to-make-art.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-love-technology.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-line-between-success-and-f.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-to-watch-on-a-sleepy-day-in.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-importance-of-educating-gi.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-history-of-the-future.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-for-when-growing-up-is-hard.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-to-support-a-healthy-deb.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-kickstart-your-creativity.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-top-10-talks-by-ted-fellows.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-isaac-mizrahi-talks-that-are.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-how-can-we-fix-the-learning-crisis.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-simple-ways-to-spark-your-creativity.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-thrifty-ted-talks.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-on-ancient-languages.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-a-day-trip-to-antarctica.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-pursuit-of-curiosity-and-understanding.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-life-lessons-from-writers.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-innovations-that-made-expensiv.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-mind-bending-questions-from-ph.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-regrowing-the-human-body.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-path-to-reconciliation.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-what-is-consciousness.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-how-to-make-a-great-presentation.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-ted-talks-for-dog-lovers.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-how-masculinity-is-evolving.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-what-are-emotions.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-why-yes-actually-it-is-rocket.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-how-microbes-shape-our-world.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-simple-ways-to-support-the-arts.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-why-not-walk-it-out.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-how-coffee-can-bring-us-together.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-5-talks-full-of-weird-facts-ab.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-6-talks-for-television-lovers.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-how-visual-effects-bring-movie.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-to-celebrate-spring.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-how-to-take-charge-of-your-personal-finances.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-to-watch-when-the-intern.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-ted-talks-for-bird-enthusiasts.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-for-people-who-hated-mat.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-deadly-genius-of-organized.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-get-in-shape-for-real-this-ti.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-unheard-and-forgotten-stories.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-to-inspire-projects-with-1.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-evolution-of-music.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-brain-thaw-with-ted-fellows.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-that-explain-difficult-t.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-graduation-now-what.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-gorgeous-awe-inspiring-images-of-earth-from-above.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-bobak-ferdowsi-on-our-home-in.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-to-help-you-re-design-y.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-tednyc-design-lab.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-is-it-time-for-de-extinction.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-an-ode-to-unsung-heroes.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-to-help-you-manage-stres.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-so-you-re-on-a-boat.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-harmful-effects-of-online-abuse.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-perfect-lunchtime-talks.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-to-help-you-find-the-ide.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-when-school-s-out-for-the-summer.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-fighting-impostor-syndrome.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-for-aspiring-rockstars.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-what-s-the-future-of-food.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-walk-walk-fashion-baby.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-get-into-your-genes.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-to-watch-when-you-have-a.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-what-s-happening-to-the-ocean.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-sharks.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-for-the-love-of-introverts.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-what-comes-after-war.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-to-inspire-you-to-go-to.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-rebel-designers.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-poor-design-and-how-to-make-i.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-why-we-need-bees.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-let-s-redesign-the-medical-exp.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-that-will-make-you-think-twice.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-for-the-fiber-arts-lover.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-art-made-of-unusual-stuff.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-what-comes-after-grief.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-history-visualized.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-magic-of-the-human-voice.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-what-s-really-floating-out-in.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-how-does-time-affect-you.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-on-water.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-jamie-oliver-5-talks-that-ins.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-how-to-tap-into-our-collective-empathy.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-all-about-the-heart.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-art-from-data.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-lasers.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-rethinking-how-we-use-the-sens.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-lights-and-sounds-of-the-u.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-bizarre-science.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-let-s-end-the-silence-around-s.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-to-watch-when-student-de.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-to-watch-during-breakfas.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-how-we-live-now.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-for-cat-lovers.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-eye-opening-undercover-journal.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-things-you-ve-probably-never-n.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-bjork-6-talks-that-are-music.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-to-watch-if-you-have-roommates.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-how-data-can-save-lives.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-how-the-brain-takes-care-of-it.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-for-when-you-re-starting-a-new-job-aug-2017.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-smart-kids-life-advice-1.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-street-art.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-pets-of-the-future.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-mysteries-of-the-deep-sea.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-on-remembering-those-we.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-goals.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-there-s-an-app-for-that.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-charming-talks-for-a-boost-on.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-how-to-understand-your-inner-p.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-ted-residency-talks.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-dude-where-s-my-driverless-ca.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-to-save-you-time-at-work.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-why-you-should-document-your-life.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-kids-teens-and-their-great-big-ideas.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-power-of-asking.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-how-navigate-questionable-information.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-diane-von-furstenberg-s-5-favo.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-for-parents-who-have-lost-a-child.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-short-talks-to-watch-during-yo.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-how-do-you-create-new-words.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-inside-the-mind-of-psychopaths.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-new-thoughts-on-addiction.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-building-introspective-spaces.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-seeing-sound-and-hearing-color.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-fascinating-windows-into-human.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-grow-your-own-stuff.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-let-s-talk-crap.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-young-inventors-who-are-changi.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-a-playlist-from-srk-to-you.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-life-lessons-from-the-four-elements.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-race-for-your-attention.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-how-perfectionism-fails-us.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-searching-for-knowledge-across.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-short-talks-for-parents-who-ar.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-issue-of-homelessness.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-inherent-bias-in-our-techn.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-air-around-us.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-why-it-s-sometimes-good-to-be-bored.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-to-kickstart-your-next-career.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-dave-eggers-4-talks-that-are.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-using-art-history-to-examine-modern-day.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-fight-against-alzheimer-s.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-to-watch-when-you-need-f.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-deep-studies-of-humanity.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-super-nerdy-talks-about-sports.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-wacky-weird-art-made-by-ai.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-how-space-technology-can-change-life-on-earth.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-talks-on-folklore.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-mystery-and-wonder-of-stars.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-things-that-build-themselves.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-get-paid-what-you-re-worth.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-the-big-problem-with-fashion-and-how-to-fix-it.zim
+wget http://download.kiwix.org/zim/ted_en_playlist-what-can-robots-teach-us-about.zim
 
 
 
