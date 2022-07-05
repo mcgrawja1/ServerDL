@@ -618,7 +618,12 @@ wget http://download.kiwix.org/zim/ted_en_playlist-things-that-build-themselves.
 wget http://download.kiwix.org/zim/ted_en_playlist-get-paid-what-you-re-worth.zim
 wget http://download.kiwix.org/zim/ted_en_playlist-the-big-problem-with-fashion-and-how-to-fix-it.zim
 wget http://download.kiwix.org/zim/ted_en_playlist-what-can-robots-teach-us-about.zim
-
+wget https://dumps.wikimedia.org/other/kiwix/zim/wikipedia/wikipedia_en_astronomy_maxi_2022-05.zim
+wget https://dumps.wikimedia.org/other/kiwix/zim/wikipedia/wikipedia_en_baseball_maxi_2022-05.zim
+wget https://dumps.wikimedia.org/other/kiwix/zim/wikipedia/wikipedia_en_basketball_maxi_2022-05.zim
+wget https://dumps.wikimedia.org/other/kiwix/zim/wikipedia/wikipedia_en_comics_maxi_2022-06.zim
+wget https://dumps.wikimedia.org/other/kiwix/zim/wikipedia/wikipedia_en_football_maxi_2022-05.zim
+wget 
 
 
 sudo systemctl restart kiwix-serve.service 
