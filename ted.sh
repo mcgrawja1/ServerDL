@@ -623,7 +623,41 @@ wget https://dumps.wikimedia.org/other/kiwix/zim/wikipedia/wikipedia_en_baseball
 wget https://dumps.wikimedia.org/other/kiwix/zim/wikipedia/wikipedia_en_basketball_maxi_2022-05.zim
 wget https://dumps.wikimedia.org/other/kiwix/zim/wikipedia/wikipedia_en_comics_maxi_2022-06.zim
 wget https://dumps.wikimedia.org/other/kiwix/zim/wikipedia/wikipedia_en_football_maxi_2022-05.zim
-wget 
-
+wget https://ftp.fau.de/kiwix/zim/stack_exchange/askubuntu.com_en_all_2021-05.zim
+wget https://ftp.fau.de/kiwix/zim/stack_exchange/3dprinting.stackexchange.com_en_all_2022-05.zim
+wget https://ftp.fau.de/kiwix/zim/stack_exchange/ai.stackexchange.com_en_all_2022-05.zim
+wget https://ftp.fau.de/kiwix/zim/stack_exchange/apple.stackexchange.com_en_all_2022-05.zim
+wget https://ftp.fau.de/kiwix/zim/stack_exchange/askubuntu.com_en_all_2022-05.zim
+wget https://ftp.fau.de/kiwix/zim/stack_exchange/bioinformatics.stackexchange.com_en_all_2022-05.zim
+wget https://ftp.fau.de/kiwix/zim/stack_exchange/bitcoin.stackexchange.com_en_all_2022-05.zim
+wget https://ftp.fau.de/kiwix/zim/stack_exchange/codegolf.stackexchange.com_en_all_2022-05.zim
+wget https://ftp.fau.de/kiwix/zim/stack_exchange/codereview.stackexchange.com_en_all_2022-05.zim
+wget https://ftp.fau.de/kiwix/zim/stack_exchange/coffee.stackexchange.com_en_all_2022-05.zim
+wget https://ftp.fau.de/kiwix/zim/stack_exchange/cogsci.stackexchange.com_en_all_2022-05.zim
+wget https://ftp.fau.de/kiwix/zim/stack_exchange/cs.stackexchange.com_cs_all_2022-05.zim
+wget https://ftp.fau.de/kiwix/zim/stack_exchange/cseducators.stackexchange.com_en_all_2022-05.zim
+wget https://ftp.fau.de/kiwix/zim/stack_exchange/cstheory.stackexchange.com_en_all_2022-05.zim
+wget https://ftp.fau.de/kiwix/zim/stack_exchange/datascience.stackexchange.com_en_all_2022-05.zim
+wget https://ftp.fau.de/kiwix/zim/stack_exchange/electronics.stackexchange.com_en_all_2022-05.zim
+wget https://ftp.fau.de/kiwix/zim/stack_exchange/engineering.stackexchange.com_en_all_2022-05.zim
+wget https://ftp.fau.de/kiwix/zim/stack_exchange/fitness.stackexchange.com_en_all_2022-05.zim
+wget https://ftp.fau.de/kiwix/zim/stack_exchange/graphicdesign.stackexchange.com_en_all_2022-05.zim
+wget https://ftp.fau.de/kiwix/zim/stack_exchange/homebrew.stackexchange.com_en_all_2022-05.zim
+wget https://ftp.fau.de/kiwix/zim/stack_exchange/iota.stackexchange.com_en_all_2022-05.zim
+wget https://ftp.fau.de/kiwix/zim/stack_exchange/hinduism.stackexchange.com_en_all_2022-05.zim
+wget https://ftp.fau.de/kiwix/zim/stack_exchange/japanese.stackexchange.com_ja_all_2022-05.zim
+wget https://ftp.fau.de/kiwix/zim/stack_exchange/latin.stackexchange.com_la_all_2022-05.zim
+wget https://ftp.fau.de/kiwix/zim/stack_exchange/lifehacks.stackexchange.com_en_all_2022-05.zim
+wget https://ftp.fau.de/kiwix/zim/stack_exchange/math.stackexchange.com_en_all_2022-05.zim
+wget https://ftp.fau.de/kiwix/zim/stack_exchange/networkengineering.stackexchange.com_en_all_2022-05.zim
+wget https://ftp.fau.de/kiwix/zim/stack_exchange/opensource.stackexchange.com_en_all_2022-05.zim
+wget https://ftp.fau.de/kiwix/zim/stack_exchange/pm.stackexchange.com_en_all_2022-05.zim
+wget https://ftp.fau.de/kiwix/zim/stack_exchange/programmers.stackexchange.com_en_all_2017-10.zim
+wget https://ftp.fau.de/kiwix/zim/stack_exchange/quantumcomputing.stackexchange.com_en_all_2022-05.zim
+wget https://ftp.fau.de/kiwix/zim/stack_exchange/scicomp.stackexchange.com_en_all_2022-05.zim
+wget https://ftp.fau.de/kiwix/zim/stack_exchange/softwareengineering.stackexchange.com_en_all_2022-05.zim
+wget https://ftp.fau.de/kiwix/zim/stack_exchange/stackoverflow.com_en_all_2022-05.zim
+wget https://ftp.fau.de/kiwix/zim/stack_exchange/superuser.com_en_all_2022-05.zim
+wget https://ftp.fau.de/kiwix/zim/stack_exchange/ux.stackexchange.com_en_all_2022-05.zim
 
 sudo systemctl restart kiwix-serve.service 
